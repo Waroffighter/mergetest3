@@ -12,6 +12,8 @@ public class Gruessen1 {
 		
 		System.out.println("AufWiedersehen.!!!!");
 		System.out.println("AufWiedersehen./////");
+		System.out.println("miep");
+	
 	}
 	
 	public static void main(String[]args){}
