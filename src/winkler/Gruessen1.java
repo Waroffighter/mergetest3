@@ -12,12 +12,9 @@ public class Gruessen1 {
 		
 		System.out.println("AufWiedersehen.!!!!");
 		System.out.println("AufWiedersehen./////");
-<<<<<<< HEAD
 		System.out.println("RipV2");
-=======
 		System.out.println("miep");
 	
->>>>>>> branch 'master' of git@github.com:Waroffighter/mergetest3.git
 	}
 	
 	public static void main(String[]args){}
